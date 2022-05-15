@@ -53,12 +53,6 @@ Switch#show vlan
 >
 > ​		缺点：大型和复杂的网络环境通常不宜采用静态路由。一方面，网络管理员难以全面地了解整个网络的拓扑结构；另一方面，当网络的拓扑结构和链路状态发生变化时，路由器中的静态路由信息需要大范围地调整，这一工作的难度和复杂程度非常高。当网络发生变化或网络发生故障时，不能重选路由，很可能使路由失败。
 
-以下图网络为例
-
-<img src="../AppData/Roaming/Typora/typora-user-images/image-20220512150829621.png" alt="image-20220512150829621" style="zoom:80%;" />
-
-<img src="../AppData/Roaming/Typora/typora-user-images/image-20220512150808766.png" alt="image-20220512150808766" style="zoom:80%;" />
-
 <!--相关路由器配置命令-->
 
 ```bash
